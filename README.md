@@ -28,3 +28,9 @@ No API key is needed for the tests.
 - Free Gemini tiers have small daily request limits; several change folders are batched per request.
 - Tested on a small synthetic evidence pack. Not a replacement for auditor judgement.
 - Future scope: auditor re-review of selected changes, and other domains/sources (e.g. AWS, Azure DevOps).
+
+## Screenshots
+![Home](screenshots/Home_Page.png)
+![Results](screenshots/Results.png)
+![Excel output 1](screenshots/Testing_table_output1.png)
+![Excel output 2](screenshots/Testing_table_output2.png)
