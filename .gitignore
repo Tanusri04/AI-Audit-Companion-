@@ -1,0 +1,17 @@
+# secrets: never commit these
+.env
+.streamlit/secrets.toml
+
+# generated files and logs
+audit_app.log
+extraction_output.json
+extraction_progress.json
+gemini_raw_response.json
+audit_testing_table*.xlsx
+streamlit.log
+cloudflared
+
+# python
+__pycache__/
+*.pyc
+.venv/
