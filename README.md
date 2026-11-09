@@ -30,7 +30,7 @@ No API key is needed for the tests.
 - Future scope: auditor re-review of selected changes, and other domains/sources (e.g. AWS, Azure DevOps).
 
 ## Screenshots
-![Home](screenshots/Home_Page.png)
-![Results](screenshots/Results.png)
-![Excel output 1](screenshots/Testing_table_output1.png)
-![Excel output 2](screenshots/Testing_table_output2.png)
+![Home](Screenshots/Home_Page.png)
+![Results](Screenshots/Results.png)
+![Excel output 1](Screenshots/Testing_table_output1.png)
+![Excel output 2](Screenshots/Testing_table_output2.png)
